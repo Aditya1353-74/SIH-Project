@@ -264,4 +264,3 @@ This project is developed for the Smart India Hackathon 2024 in partnership with
 ---
 
 **FloatChat** - Making Ocean Data Accessible Through AI Innovation 🌊🤖
-
