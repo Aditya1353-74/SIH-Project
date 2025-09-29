@@ -236,12 +236,7 @@ This project is developed for the Smart India Hackathon 2024 in partnership with
 - Official technology partner
 - Scientific validation and quality assurance
 
-## 📞 Support
 
-- **Email**: contact@floatchat.com
-- **Documentation**: [Project Wiki]
-- **Issues**: [GitHub Issues]
-- **Support Hours**: Monday-Friday, 9:00 AM - 6:00 PM IST
 
 ## 🎯 Future Enhancements
 
