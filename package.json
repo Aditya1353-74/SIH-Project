@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@googlemaps/js-api-loader": "^1.16.10",
+    "plotly.js-dist-min": "^3.1.0",
+    "react-google-maps-api": "^1.0.8",
+    "react-plotly.js": "^2.6.0"
+  }
+}
